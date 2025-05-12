@@ -5,7 +5,8 @@ It includes data manipulation, data cleaning, and data visualization, utilizing 
 ## Through this collection of projects, I aim to demonstrate my analytical abilities and commitment to continuous learning,
 while building a strong foundation for a successful career in data analytics.
 # Key Skills Highlighted
-## * Data Manipulation
+## 
+   * Data Manipulation
    * Data Cleaning
    * Data Visualization
    * Dashboard Design and Development
